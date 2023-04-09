@@ -1,4 +1,4 @@
-## termux-api-package
+## ```termux-api-package```
 
 A Termux package mainly just containing scripts to call and initialize certain functionality for the ```Termux:API```
 Application Programming Interface optional add-on available from F-Droid and [https://github.com/termux/termux-api](https://github.com/termux/termux-api) 
